@@ -1,14 +1,10 @@
-## Hi there 👋
+![MFBB logo](https://avatars.githubusercontent.com/u/183869704?s=200&v=4)
+## MinerFirst
+Welcome to the since 2006 your massaging!
 
-<!--
+## Copyright
+* [LICENSE](https://www.apache.org/licenses/LICENSE-2.0)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
+<!---
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-![Organization Avatar](https://example.com/avatar.png)
+---!>
